@@ -1,0 +1,8 @@
+1
+00:00:03,000 --> 00:00:06,548
+Đây là đồ thị của hàm số sin(x)
+
+2
+00:00:07,600 --> 00:00:13,356
+Khi dịch sang trái pi/4 radian, ta thu được đồ thị của hàm số cos(x)
+
